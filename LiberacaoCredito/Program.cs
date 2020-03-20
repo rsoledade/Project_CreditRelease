@@ -15,7 +15,7 @@ namespace CreditRelease
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw ex; 
             }
         }
 
